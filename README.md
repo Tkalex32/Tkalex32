@@ -27,6 +27,6 @@
 <code><img height="32" width="32" src="https://user-images.githubusercontent.com/59170674/136694079-31ffdea9-b5ac-439c-8e2d-946648b4b319.png" /></code>
 <code><img height="32" width="32" src="https://user-images.githubusercontent.com/59170674/136694592-9e2d7ab2-3473-40d9-b7a9-58c07f71d8de.png" /></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkalex32&show_icons=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Tkalex32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkalex32&show_icons=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkalex32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
