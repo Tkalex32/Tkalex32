@@ -4,7 +4,7 @@
 ##### About me:
 
     > I'm Alex from Hungary
-    > I'm working as web developer since 2004
+    > I'm a web developer since 2004
 #
 ##### Used languages and tools:
 ###### Actively
