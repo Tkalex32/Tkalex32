@@ -33,6 +33,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkalex32&show_icons=true&locale=en&layout=compact" alt="tkalex32" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkalex32&show_icons=true&count_private=true&hide=issues&locale=en" alt="tkalex32" />
+<img align="center" src="https://github-readme-stats-tkalex.vercel.app/api/top-langs?username=tkalex32&show_icons=true&locale=en&layout=compact" alt="tkalex32" />
+<img align="center" src="https://github-readme-stats-tkalex.vercel.app/api?username=tkalex32&show_icons=true&count_private=true&hide=issues&locale=en" alt="tkalex32" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkalex32&" alt="tkalex32" />
