@@ -36,8 +36,8 @@
 
 ---
 <a href="https://github.com/Tkalex32">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkalex32&show_icons=true&locale=en&layout=compact" alt="tkalex32" />
+<img align="center" src="https://github-readme-stats-tkalex.vercel.app/api/top-langs?username=tkalex32&show_icons=true&locale=en&layout=compact" alt="tkalex32" />
 </a>
 <a href="https://github.com/Tkalex32">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkalex32&show_icons=true&count_private=true&hide=issues&locale=en&rank_icon=percentile" alt="tkalex32" />
+<img align="center" src="https://github-readme-stats-tkalex.vercel.app/api?username=tkalex32&show_icons=true&count_private=true&hide=issues&locale=en&rank_icon=percentile" alt="tkalex32" />
 </a>
