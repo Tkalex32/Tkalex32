@@ -7,7 +7,7 @@ Developer since 2004, now building independent products.
 This is my second desktop app. The first one was a medication reminder app.
 
 ### Recently shipped
-- Embeddable AI tools for medical websites: 
+- Embeddable AI tools for medical websites
 - Several smaller mobile apps
 
 ### Find AmpPulse
